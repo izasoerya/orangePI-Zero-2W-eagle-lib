@@ -3,4 +3,5 @@
 
 # Except this
 !/.gitignore
-!/.orangePI-2w.lbr
+!/orangePI-2w.lbr
+!/README.md
